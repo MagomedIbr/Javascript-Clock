@@ -1,0 +1,10 @@
+Stundenhand 30 Grad pro Stunde. 
+Also bei 30 Minuten ist es bei 15 Grad.
+Also 30*(m/60) m sind die Minuten+
+
+Minuten sind 6 Grad pro Minute. 
+Also bei  30 Sekunden ist es bei 3 Grad.
+Also 6*(s/60) s für Sekunde
+
+Sekunden sind 6 Grad Pro Sekunde.
+Also 6*

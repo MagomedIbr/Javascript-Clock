@@ -1,0 +1,10 @@
+-Analock clock with Hour,Minute and Second hands
+-In Sync witgh the Current Time
+-Hour,Minute and Second hans are always on the move
+
+What to learn:
+-Basic Math to Build the Application
+-Set Interval Method
+-Date function
+-Style Transform Property
+-Working with HTML IDs in JS
